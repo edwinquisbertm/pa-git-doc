@@ -1,8 +1,8 @@
 # pa-git-doc
 Clase de programacion avanzada UCATEC
 
-# Edwin Quisbert
-## Ingenieria de Sistemas
+## Edwin Quisbert
+### Ingenieria de Sistemas
 
 
 
